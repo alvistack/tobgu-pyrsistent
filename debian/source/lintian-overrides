@@ -1,0 +1,5 @@
+python-pyrsistent source: file-without-copyright-information
+python-pyrsistent source: no-debian-changes
+python-pyrsistent source: source-contains-prebuilt-windows-binary
+python-pyrsistent source: source-is-missing
+python-pyrsistent source: source-package-encodes-python-version
